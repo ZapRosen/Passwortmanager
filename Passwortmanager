@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 # Danke an Pina Merkert
+# Module laden
 import getpass
 from hashlib import pbkdf2_hmac
 
